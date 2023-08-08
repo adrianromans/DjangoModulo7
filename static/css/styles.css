@@ -1,0 +1,41 @@
+.btn-custom-green {
+    background-color: #1fd61f8c; 
+    color: rgb(4, 4, 4); 
+  }
+  
+  .btn-custom-green:hover {
+    background-color: #3f9d3f8c; /* Cambia el color a tu segundo verde personalizado */
+    color: rgb(4, 4, 4); /* Cambia el color del texto si es necesario */
+  }
+  
+  
+  body {
+    background: #d37509;  
+    background: -webkit-linear-gradient(to right, #f2fcfe, #1c92d2);  
+    background: linear-gradient(to right, #f2fcfe, #1c92d2); 
+    }
+  
+  #hint_id_username,
+  #hint_id_password1,
+  #hint_id_password2 {
+    color: #373737;
+  }
+
+  
+  .navbar-brand {
+      margin-left: 2%; 
+    }
+    .navbar-container {
+      margin-left: 4%;
+    }
+  
+  th,
+  td {
+      text-align: center;
+      vertical-align: middle;
+  }
+  
+  .centered {
+    text-align: center !important;
+    vertical-align: middle !important;
+  }
